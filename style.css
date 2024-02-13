@@ -1,0 +1,22 @@
+h1{
+    color: darkslateblue;
+}
+/*{
+    color: brown;
+    border: solid;
+}*/
+.page_links{
+    background-color: lightblue;
+    display: flex;
+    justify-content: space-between;
+}
+.projects{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.socialhandles_footer{
+    background-color: lightblue;
+    display: flex;
+    justify-content: space-around;
+}
